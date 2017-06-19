@@ -2,4 +2,6 @@ chop avocados
 chop onions
 chop lime
 chop salt
-
+squeeza lemon 
+add salt
+mix
